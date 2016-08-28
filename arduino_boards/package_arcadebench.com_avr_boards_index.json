@@ -16,7 +16,7 @@
                     "category": "ArcadeBench",
                     "url": "https://arcadebench.github.io/arduino_boards/antares_v0_1_0.zip",
                     "archiveFileName": "antares_v0_1_0.zip",
-                    "checksum": "SHA-256:066c964ef9d106a778836ae735cc90736034d9bb2905b75d4215215dccc5e904"
+                    "checksum": "SHA-256:066c964ef9d106a778836ae735cc90736034d9bb2905b75d4215215dccc5e904",
                     "size": "7931",
                     "boards": {"name": "ArcadeBench Antares"},
                     "toolsDependencies": 
