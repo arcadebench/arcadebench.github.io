@@ -14,10 +14,10 @@
                     "architecture": "ATmega32U4",
                     "version": "0.1.0",
                     "category": "ArcadeBench",
-                    "url": "https://arcadebench.github.io/arduino/Antares/antares_v0_1_0.zip",
+                    "url": "https://arcadebench.github.io/arduino_boards/antares_v0_1_0.zip",
                     "archiveFileName": "antares_v0_1_0.zip",
-                    "checksum": "SHA-256:64039719B008DDF79743C71F7ED108A6A972E0B8A3F62B9D4769BF930FB8D408",
-                    "size": "5610622",
+                    "checksum": "SHA-256:066c964ef9d106a778836ae735cc90736034d9bb2905b75d4215215dccc5e904"
+                    "size": "7931",
                     "boards": {"name": "ArcadeBench Antares"},
                     "toolsDependencies": 
                     [
