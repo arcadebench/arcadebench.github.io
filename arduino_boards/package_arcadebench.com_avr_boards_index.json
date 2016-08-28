@@ -1,0 +1,37 @@
+{
+    "packages":
+    [
+        {
+            "name":"ArcadeBench",
+            "maintainer":"ArcadeBench",
+            "websiteURL":"http://www,arcadebench.com/",
+            "email":"none@arcadebench.com",
+            "help":{ "online":"http://arcadebench.com/" },
+            "platforms": 
+            [
+                {
+                    "name": "Antares (ATmega32U4 core)",
+                    "architecture": "ATmega32U4",
+                    "version": "0.1.0",
+                    "category": "ArcadeBench",
+                    "url": "https://arcadebench.github.io/arduino/Antares/antares_v0_1_0.zip",
+                    "archiveFileName": "antares_v0_1_0.zip",
+                    "checksum": "SHA-256:64039719B008DDF79743C71F7ED108A6A972E0B8A3F62B9D4769BF930FB8D408",
+                    "size": "5610622",
+                    "boards": {"name": "ArcadeBench Antares"},
+                    "toolsDependencies": 
+                    [
+                        {
+                            "packager":"arduino",
+                            "name":"avrdude",
+                            "version":"6.0.1-arduino5"
+                        }
+                    ]
+                }s
+            ],
+            "tools":
+            [
+            ]
+        }
+    ]
+}
