@@ -13,8 +13,8 @@
                "category": "Contributed",
                "url": "https://arcadebench.github.io/arduino_boards/ArcadeBench_avr_v0_1_0.zip",
                "archiveFileName": "ArcadeBench_avr_v0_1_0.zip",
-               "checksum": "SHA-256:dd2d32a1f75d8149f31ea478eb62f13a9eaa16c37a984fe605045a329cfb235a",
-               "size": "6219",
+               "checksum": "SHA-256:9723fffb8100ec30a3eb7ffedd30b0ac6496da4dec4e6b075034c82a60f416cc",
+               "size": "6079",
                "help":{
                   "online":"http://arcadebench.com"
                },
