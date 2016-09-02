@@ -1,0 +1,30 @@
+{
+   "packages":[
+      {
+         "name": "ArcadeBench",
+         "maintainer": "ArcadeBench",
+         "websiteURL": "http://arcadebench.com",
+         "email": "arcadebench@gmail.com",
+         "platforms":[
+            {
+               "name": "ArcadeBench AVR Boards",
+               "architecture": "avr",
+               "version": "0.1.0",
+               "category": "Contributed",
+               "url": "https://arcadebench.github.io/arduino_boards/ArcadeBench_avr_v0_1_0.zip",
+               "archiveFileName": "ArcadeBench_avr_v0_1_0.zip",
+               "checksum": "SHA-256:dd2d32a1f75d8149f31ea478eb62f13a9eaa16c37a984fe605045a329cfb235a",
+               "size": "6219",
+               "help":{
+                  "online":"http://arcadebench.com"
+               },
+               "boards":[
+                  { "name": "Antares" }
+               ],
+               "toolsDependencies":[]
+            }
+         ],
+         "tools":[]
+      }
+   ]
+}
