@@ -1,37 +1,30 @@
 {
-    "packages":
-    [
-        {
-            "name":"ArcadeBench",
-            "maintainer":"ArcadeBench",
-            "websiteURL":"http://www,arcadebench.com/",
-            "email":"none@arcadebench.com",
-            "help":{ "online":"http://arcadebench.com/" },
-            "platforms": 
-            [
-                {
-                    "name": "Antares (ATmega32U4 core)",
-                    "architecture": "ATmega32U4",
-                    "version": "0.1.0",
-                    "category": "ArcadeBench",
-                    "url": "https://arcadebench.github.io/arduino_boards/antares_v0_1_0.zip",
-                    "archiveFileName": "antares_v0_1_0.zip",
-                    "checksum": "SHA-256:066c964ef9d106a778836ae735cc90736034d9bb2905b75d4215215dccc5e904",
-                    "size": "7931",
-                    "boards": {"name": "ArcadeBench Antares"},
-                    "toolsDependencies": 
-                    [
-                        {
-                            "packager":"arduino",
-                            "name":"avrdude",
-                            "version":"6.0.1-arduino5"
-                        }
-                    ]
-                }s
-            ],
-            "tools":
-            [
-            ]
-        }
-    ]
+   "packages":[
+      {
+         "name": "avr",
+         "maintainer": "ArcadeBench",
+         "websiteURL": "http://arcadebench.com",
+         "email": "arcadebench@gmail.com",
+         "platforms":[
+            {
+               "name": "ArcadeBench AVR Boards",
+               "architecture": "avr",
+               "version": "0.1.0",
+               "category": "Contributed",
+               "url": "https://arcadebench.github.io/arduino_boards/ArcadeBench_avr_v0_1_0.zip",
+               "archiveFileName": "ArcadeBench_avr_v0_1_0.zip",
+               "checksum": "SHA-256:dd2d32a1f75d8149f31ea478eb62f13a9eaa16c37a984fe605045a329cfb235a",
+               "size": "6219",
+               "help":{
+                  "online":"http://arcadebench.com"
+               },
+               "boards":[
+                  { "name": "Antares" }
+               ],
+               "toolsDependencies":[]
+            }
+         ],
+         "tools":[]
+      }
+   ]
 }
