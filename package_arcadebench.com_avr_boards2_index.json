@@ -9,7 +9,7 @@
             {
                "name": "ArcadeBench AVR Boards",
                "architecture": "avr",
-               "version": "0.1.0",
+               "version": "0.1.1",
                "category": "Contributed",
                "url": "https://arcadebench.github.io/arduino_boards/ArcadeBench_avr_v0_1_1.zip",
                "archiveFileName": "ArcadeBench_avr_v0_1_1.zip",
@@ -19,7 +19,7 @@
                   "online":"http://arcadebench.com"
                },
                "boards":[
-                  { "name": "Antares" }
+                  { "name": "ArcadeBench Antares" }
                ],
                "toolsDependencies":[]
             }
