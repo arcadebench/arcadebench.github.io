@@ -1,10 +1,10 @@
 {
    "packages":[
       {
-         "name": "Talk2",
-         "maintainer": "Talk2 by Wisen",
-         "websiteURL": "http://talk2.wisen.com.au",
-         "email": "talk2@wisen.com.au",
+         "name": "ArcadeBench",
+         "maintainer": "ArcadeBench",
+         "websiteURL": "http://arcadebench.com",
+         "email": "arcadebench@gmail.com",
          "platforms":[
             {
                "name": "Talk2 AVR Boards",
