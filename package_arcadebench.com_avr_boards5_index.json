@@ -11,9 +11,9 @@
                "architecture": "avr",
                "version": "0.1.1",
                "category": "Contributed",
-               "url": "https://arcadebench.github.io/arduino_boards/talk2-avr_1.0.1v.zip",
-               "archiveFileName": "talk2-avr_1.0.1v.zip",
-               "checksum": "SHA-256:6a38a25612d243185f0a960b1627d5d4cd8db44595c7d6a5e0f1abc09a6711c1",
+               "url": "https://arcadebench.github.io/arduino_boards/Arcadebench_avr_v0_1_2.zip",
+               "archiveFileName": "Arcadebench_avr_v0_1_2.zip",
+               "checksum": "SHA-256:c4a4e4ea0c49661a058306f8c5bbc2a2e69295919cf87c4c3daca43b7b8400d3",
                "size": "16923",
                "help":{
                   "online":"http://talk2forum.wisen.com.au"
