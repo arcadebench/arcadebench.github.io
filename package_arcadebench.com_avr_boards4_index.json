@@ -1,22 +1,22 @@
 {
    "packages":[
       {
-         "name": "Talk2",
-         "maintainer": "Talk2 by Wisen",
-         "websiteURL": "http://talk2.wisen.com.au",
-         "email": "talk2@wisen.com.au",
+         "name": "ArcadeBench",
+         "maintainer": "ArcadeBench",
+         "websiteURL": "http://arcadebench.com",
+         "email": "arcadebench@gmail.com",
          "platforms":[
             {
-               "name": "Talk2 AVR Boards",
+               "name": "ArcadeBench AVR Boards",
                "architecture": "avr",
-               "version": "1.0.1",
+               "version": "0.1.1",
                "category": "Contributed",
-               "url": "https://bitbucket.org/talk2/arduino-ide-boards/raw/master/talk2-avr_1.0.1v.zip",
-               "archiveFileName": "talk2-avr_1.0.1v.zip",
+               "url": "https://arcadebench.github.io/arduino_boards/ArcadeBench_avr_v0_1_2.zip",
+               "archiveFileName": "ArcadeBench_avr_v0_1_2.zip",
                "checksum": "SHA-256:c4a4e4ea0c49661a058306f8c5bbc2a2e69295919cf87c4c3daca43b7b8400d3",
-               "size": "16892",
+               "size": "16923",
                "help":{
-                  "online":"http://talk2forum.wisen.com.au"
+                  "online":"http://arcadebench.com"
                },
                "boards":[
                   { "name": "Whisper Node" }
